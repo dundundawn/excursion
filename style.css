@@ -23,3 +23,7 @@ h2{
   font-size: 21px;
   color: Gray;
 }
+#brandname{
+  text-align: right;
+  color: gray;
+}
